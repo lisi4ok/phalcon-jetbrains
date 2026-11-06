@@ -1,0 +1,3 @@
+[submodule "src/main/resources/stubs/src"]
+	path = src/main/resources/stubs/src
+	url = https://github.com/phalcon/ide-stubs.git

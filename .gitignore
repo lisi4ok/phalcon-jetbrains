@@ -1,6 +1,13 @@
-.DS_Store
 .gradle
 .idea
 .intellijPlatform
-.kotlin
 build
+out
+
+*.hprof
+.mcp.json
+.codex
+.junie
+.kotlin
+.agents
+.claude
